@@ -3,11 +3,11 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(https://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 
 body {
-  font-family: 'Nanum Gothic'!important, 'Times New Roman', serif;
-  font-size: 23px;
+  font-family: 'Nanum Gothic', 'Times New Roman', serif !important;
+  font-size: 21px;
   color: #333333;
 
 }
