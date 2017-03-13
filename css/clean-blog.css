@@ -281,6 +281,19 @@ hr.small {
 .im {
   width: 500px;
 }
+
+iframe {
+  width: 720px;
+}
+@media (max-width: 767px) {
+  .im {
+    width: 250px;
+  }
+
+  iframe {
+    width: 100%;
+  }
+}
 footer {
   padding: 50px 0 65px;
 }
